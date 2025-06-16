@@ -37,7 +37,7 @@ export function CraterAnalyzer() {
       method: "POST",
       url: "https://upload-images-hosting-get-url.p.rapidapi.com/upload",
       headers: {
-        "x-rapidapi-key": "b1062bd814msh05d5e5ff69166a2p13d52djsn34ae8631d8f4",
+        "x-rapidapi-key": "",
         "x-rapidapi-host": "upload-images-hosting-get-url.p.rapidapi.com",
         "Content-Type": "application/x-www-form-urlencoded",
       },
