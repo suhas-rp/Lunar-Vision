@@ -96,7 +96,7 @@ export function ImageComparator({ originalImage, processedImage }: ImageComparat
         </Card>
         <Card className="bg-slate-800/30 border-slate-700 p-4">
           <h4 className="text-white font-medium mb-2">Processed Image</h4>
-          <p className="text-slate-300 text-sm">AI-enhanced image with detected craters highlighted</p>
+          <p className="text-slate-300 text-sm">Image with detected craters highlighted</p>
         </Card>
       </div>
     </div>
